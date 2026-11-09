@@ -1,0 +1,77 @@
+*{
+    color: white;
+    background-color: black;
+
+}
+
+#navbar ul{
+    list-style: none;
+    display:flex;
+    padding:25px,100p,25px,100pxx;
+    
+   background-color: blueviolet; 
+}
+#navbar ul a{
+    
+    padding-left: 10px;
+    background-color: blueviolet; 
+}
+#home{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+   
+    margin: 50px 300px 50px 300px;
+    border-style: solid;
+    border-color: blueviolet;
+    border-radius: 25px;
+}
+#About{
+    margin: 10px 100px 10px 100px;
+    
+}
+
+#a ul{
+    display: flex;
+    
+}
+#a li{
+    list-style: none;
+    text-align: center;
+    width:300px;
+    height:180px;
+    border-style: solid;
+    border-color: blueviolet;
+    margin-left: 100px;
+    border-radius: 25px; 
+}
+#b ul{
+    display: flex;
+
+}
+#b li{
+    list-style: none;
+    text-align: center;
+    width:300px;
+    height:180px;
+    border-style: solid;
+    border-color: blueviolet;
+    margin-left: 100px;
+    border-radius: 25px; 
+}
+#Skills ul{
+    display: flex;
+    list-style: none;
+   
+}
+#Skills li{
+    padding-left: 30px;
+}
+#contact ul{
+    display: flex;
+    list-style: none;
+}
+#contact li{
+    padding-left: 30px;
+}
